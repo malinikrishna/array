@@ -1,4 +1,4 @@
-language = ["c" , "java" , "python" , "ruby"]
-language.each do |language|
-  puts language.capitalize
+languages = ["c" , "java" , "python" , "ruby"]
+languages.each do |languages|
+  puts languages.capitalize
 end
