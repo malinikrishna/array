@@ -1,4 +1,4 @@
-array=["c","java","python","ruby"]
-array.each do |i|
-puts i.capitalize
+language = ["c" , "java" , "python" , "ruby"]
+language.each do |language|
+  puts language.capitalize
 end
